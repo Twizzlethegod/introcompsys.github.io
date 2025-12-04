@@ -12,6 +12,10 @@ History of Computers
 ```{list-table}
 :header-rows: 1
 
+* - Resource
+  - Type
+  - Level
+  - Summary
 * - [Name](url)
   - video/blog/
   - this is about ...
@@ -27,14 +31,17 @@ History of Computers
   - Digital Encyclopedia
   - 2
   - Provides a quick definition of what a computer algorithm is followed by the importance of algorithms.
-  
+
 ```
 
 Tools of the Craft
 ------------------
 ```{list-table}
 :header-rows: 1
-
+* - Resource
+  - Type
+  - Level
+  - Summary
 * - [What is Linux? Linux Explained](https://www.youtube.com/watch?v=PwugmcN1hf8)
   - Video
   - 1
@@ -115,13 +122,14 @@ Tools of the Craft
   - Article that explains the importance and benefits of having data backups. Contains a list of different kinds of backups and a visual tree to go with it. Also explains what each type of back up is with its pros and cons. 
 
 ```
-
 Survey of Hardware Components
 -----------------------------
-
 ```{list-table}
 :header-rows: 1
-
+* - Resource
+  - Level
+  - Type
+  - Summary
 * - [What is a CPU, and What Does It Do?](https://www.howtogeek.com/694869/what-is-a-cpu-and-what-does-it-do/)
   - 1
   - Article
@@ -158,16 +166,15 @@ Survey of Hardware Components
   - 1
   - Video
   - Video that explains what the derived logic gates are (NAND, NOR, XOR, XNOR). Uses simple, easy to understand real-world examples such as light switches in a room.
-* - [Registers and RAM](https://www.youtube.com/watch?v=fpnE6UAfbtU)
+  - [Registers and RAM](https://www.youtube.com/watch?v=fpnE6UAfbtU)
   - 1
   - Video
   - Crash Course video that explains what registers are and how RAM works.
-
+  
 ```
 
 Software Infrastructure
 -----------------------
-
 ```{list-table}
 :header-rows: 1
 * - [Operating Systems: Crash Course](https://www.youtube.com/watch?v=26QPDBe-NB8&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=19)
@@ -193,13 +200,12 @@ Software Infrastructure
 * - [Cache Memory in Computer Organization](https://www.geeksforgeeks.org/cache-memory-in-computer-organization/)
   - 1
   - Article
-  - Explains how cache memory works and how it is accessed by the CPU. Also talks about cache mapping, types of cache, and cache performance. 
-
+  - Explains how cache memory works and how it is accessed by the CPU. Also talks about cache mapping, types of cache, and cache performance.
+  
 ```
 
 Number Systems
 --------------
-
 ```{list-table}
 :header-rows: 1
 * - [Representing Numbers and Letters with Binary](https://www.youtube.com/watch?v=1GSjbWt0c9M&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=5)
@@ -219,7 +225,6 @@ Number Systems
 
 Machine Representation of Data
 ------------------------------
-
 ```{list-table}
 :header-rows: 1
 * - [What is a Bitwise Operator and How to Use Them](https://www.youtube.com/watch?v=SSvHrrbhCCI)
